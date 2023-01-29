@@ -170,6 +170,20 @@
         ],
         "exclude" : [ ]
       }
+    },
+    {
+      "properties" : {
+        "name" : "Iris Shaders",
+        "description" : "Iris shader позволяет использовать шейдеры от оптифайна на содиуме",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*iris-mc*"
+        ],
+        "exclude" : [ ]
+      }
     }
   ],
   "userFiles" : {

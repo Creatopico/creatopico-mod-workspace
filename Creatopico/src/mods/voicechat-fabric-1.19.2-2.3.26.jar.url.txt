@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/9eGKb6K1/versions/Do5N35jN/voicechat-fabric-1.19.2-2.3.26.jar
+263fc89fb96a689a05682658bd26d533dbedadfd
