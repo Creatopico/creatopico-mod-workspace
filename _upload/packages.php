@@ -4,19 +4,10 @@ $packages = array();
 
 $packages[] = array(
     'name' => 'Creatopico',
-    'title' => 'Creatopico modpack',
-    'version' => '2023-01-11-20-54-30',
+    'title' => 'Creatopico 2.1 - Межсезонье',
+    'version' => '2023-02-23-20-37-28',
     'priority' => 0,
     'location' => 'creatopico.json',
-);
-
-if (count(array_intersect(array('season3private'), $keys)) > 0)
-$packages[] = array(
-    'name' => 'Season3',
-    'title' => 'Season3',
-    'version' => '2023-01-29-15-49-24',
-    'priority' => 0,
-    'location' => 'season3.json',
 );
 
 $out = array('minimumVersion' => 1, 'packages' => $packages);

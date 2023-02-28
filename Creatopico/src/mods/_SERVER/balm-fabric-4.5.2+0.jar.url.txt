@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/MBAkmtvl/versions/4.5.2%2B0%2Bfabric-1.19/balm-fabric-4.5.2%2B0.jar
+1522f8c3eddd62ba81dbdf558462b1afe9de0d52

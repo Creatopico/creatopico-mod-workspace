@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/M7MroYMU/versions/1.5/multiworldborders-1.5-fabric-1.19.jar
+907b649a99969fd19a8df9e77e49e6a5466bb257

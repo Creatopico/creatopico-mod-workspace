@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/8dI2tmqs/versions/v2.3.0/FabricProxy-Lite-2.3.0.jar
+e184c1993ee10a42a3976bc4789e31309f84cf53

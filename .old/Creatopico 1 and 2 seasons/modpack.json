@@ -1,0 +1,203 @@
+{
+  "name" : "Creatopico",
+  "title" : "Creatopico modpack",
+  "gameVersion" : "1.19.2",
+  "features" : [
+    {
+      "properties" : {
+        "name" : "3dskinlayers",
+        "description" : "3d скины",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*3dskinlayers*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "appleskin",
+        "description" : "hud для еды, показывает сытости блюда",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*appleskin*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "BiomeParticleWeather",
+        "description" : "Эффекты погоды",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*BiomeParticleWeather*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "cave_dust",
+        "description" : "Эффект пыли в пещерах",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*cave_dust*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "chat_heads",
+        "description" : "Иконка головы в чате",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*chat_heads*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "durabilityviewer",
+        "description" : "HUD для прочности предметов",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*durabilityviewer*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "make_bubbles_pop",
+        "description" : "Эффект пУзыРькОв",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*make_bubbles_pop*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "shulkerboxtooltip",
+        "description" : "Просмотр содержимого шалкеров",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*shulkerboxtooltip*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "simple_durability_tooltip",
+        "description" : "Информация о прочности инструментов",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*simple_durability_tooltip*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "tooltipfix",
+        "description" : "Фикс вылезающей за экран информации об итеме",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*tooltipfix*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Glyphix",
+        "description" : "Поддержка смайликов",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/Glyphix"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "ComplementaryShaders_v4.6",
+        "description" : "ComplementaryShaders_v4.6",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "shaderpacks/*ComplementaryShaders_v4.6*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Iris Shaders",
+        "description" : "Iris shader позволяет использовать шейдеры от оптифайна на содиуме",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*iris-mc*"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsshaders.txt",
+      "servers.dat",
+      "ComplementaryShaders_v4.6.zip"
+    ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  }
+}

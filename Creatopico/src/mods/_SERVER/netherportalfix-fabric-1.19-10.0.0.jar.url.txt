@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/nPZr02ET/versions/10.0.0-fabric/netherportalfix-fabric-1.19-10.0.0.jar
+4160ca08d36f7de09e9317c4c7b5921e6d957041

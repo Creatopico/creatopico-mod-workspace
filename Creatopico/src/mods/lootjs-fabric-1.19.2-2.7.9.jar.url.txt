@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/fJFETWDN/versions/dIIoIaGP/lootjs-fabric-1.19.2-2.7.9.jar
+d5dd72473e559a67b4768db0ac6acdfc2499cab4

@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/x3HZvrj6/versions/CnPCKTnG/immersive_aircraft-0.3.0%2B1.19.2-fabric.jar
+f0885b5a5b7d5e2ef51ffb7810764eb3dc7e5222
